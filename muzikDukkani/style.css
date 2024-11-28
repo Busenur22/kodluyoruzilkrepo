@@ -1,0 +1,20 @@
+h1 {
+    color: #AE445A;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 35px;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    /* Liste işaretlerini kaldırır */
+    padding: 0;
+}
+
+.nav>li {
+    margin: 10px;
+    font-size: 20px;
+}
